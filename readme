@@ -1,0 +1,7 @@
+Esta aplicação cria um pequeno cadastro de clientes com vinculos de contatos, depois mostra o cliente e seus contatos  vinculados.
+
+CONFIGURAÇÃO DO AMBIENTE:
+1. conectar o .env ao seu banco de dados
+2. realizar as migrations: python manage.py makemigrations
+3.  rodar as migrations: python manage.py runmigrations
+4. rodar o servidor: python manage.py runserver
